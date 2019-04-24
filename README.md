@@ -12,6 +12,8 @@ Fun project, terrific people, excellent potential (and already useful running in
 http://microblocks.fun - 
 Phenomenal blocks-based programming tool for building your own Mozilla "web things" out of any of the supported 32-bit MCU boards. Unlike Snap4Arduino, these MicroBlocks programs run even after you disconnect the board from your computer. Easily build your own IoT devices as standard web of things devices!
 
+Hour of code: https://gpblocks.org/hourOfCode2018/microbitIntro/
+
 ### Snap! and Snap4Arduino
 
 https://snap.berkeley.edu/ - 
@@ -38,6 +40,3 @@ Such a wealth of community collaboration and libraries that make it easier to bu
 
 Not exactly sure yet how I will organize this site yet, but one benefit will be the ability to share documents. Useful for sharing information that I generate and use when giving workshops, conferences, and supporting them with online tutorials.
 
-* Mozilla Project Things
-   * [Things Gateway Quick Start Guide](https://github.com/kgiori/kgiori.github.io/blob/master/Mozilla%20Things%20Gateway%20Setup%20and%20User%20Guide.pdf)
-   * [Things Gateway Setup and User Guide](https://github.com/kgiori/kgiori.github.io/blob/master/Mozilla%20Things%20Gateway%20Setup%20and%20User%20Guide.pdf)
