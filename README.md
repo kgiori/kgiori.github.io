@@ -20,16 +20,16 @@ Here are ideas to improve STEM learning in your community.
   
 #### Learning Content
 [MicroBlocks Activity Card](http://microblocks.fun/learn) lessons and videos supporting the [Kit](https://wiki.microblocks.fun/en/kits/okdoactivitykitmicrobit).
-1. Use Buttons to Control LEDs | Make LED Animations - [lesson](https://wiki.microblocks.fun/card_1_buttons_led_display.pdf) - [video](https://youtu.be/Pu1jFMuyDpE)
-2. Display Messages by Scrolling Text | Create a Magic 8-Ball - [lesson](https://wiki.microblocks.fun/card_2_scrolling_magic_8-ball.pdf) - [video](https://youtu.be/igRhAvRpAqI)
-3. Radio Communications | Do Text Messaging Using Only 2 Buttons! - [lesson](https://wiki.microblocks.fun/card_3_radio_texting.pdf) - [video 1](https://youtu.be/o3Mly7wOMOM) - [video 2](https://youtu.be/0ISMFgFI-kY)
-4. Creating Sounds | Play the Tune Happy Birthday - [lesson](https://wiki.microblocks.fun/card_4_sound_music-small.pdf) - [video](https://youtu.be/wUXRA6ddepI)
-5. Light up LEDs in Many Colors | Here Comes an Ambulance - [lesson](https://wiki.microblocks.fun/card_5_colorful_leds_ambulance.pdf) - [video](https://youtu.be/HMQY5n7dhsc)
-6. Read Electronic Sensors | Graph Sensor Values to See the Big Picture - [lesson](https://wiki.microblocks.fun/card_6_sensors_graphing-small.pdf) - [video 1](https://youtu.be/t-X5qIZYqhY) - [video 2](https://youtu.be/Zh-b2QMKRnM)
-7. Count Your Steps | Alert! Alert! Backpack Security Monitor and Alarm - [lesson](https://wiki.microblocks.fun/card_7_step_counter_motion.pdf) - [video](https://youtu.be/KIOewCLBb3U)
-8. Be a Scientist and Collect Data | Remote Data Logging Using the Radio - [lesson](https://wiki.microblocks.fun/card_8_data_logging.pdf) - [video](https://youtu.be/ZBU6l-4XjQw)
-9. Make a Game | Play the Simon (Memory) Game - [lesson](https://wiki.microblocks.fun/card_9_games_simon-small.pdf) - [video](https://youtu.be/oKuQvBGw41o)
-10. Turn a Flashlight into a Remote Control | Play Flashlight Tag - [lesson](https://wiki.microblocks.fun/card_10_flashlight_remote_tag.pdf) - [video](https://youtu.be/AhnheX1g_nU) - [long video](https://youtu.be/VMPMrNIcQtw) <br>
+1. Use Buttons to Control LEDs <br> Make LED Animations <br> [lesson](https://wiki.microblocks.fun/card_1_buttons_led_display.pdf) - [video](https://youtu.be/Pu1jFMuyDpE)
+2. Display Messages by Scrolling Text <br> Create a Magic 8-Ball <br> [lesson](https://wiki.microblocks.fun/card_2_scrolling_magic_8-ball.pdf) - [video](https://youtu.be/igRhAvRpAqI)
+3. Radio Communications <br> Do Text Messaging Using Only 2 Buttons! <br> [lesson](https://wiki.microblocks.fun/card_3_radio_texting.pdf) - [video 1](https://youtu.be/o3Mly7wOMOM) - [video 2](https://youtu.be/0ISMFgFI-kY)
+4. Creating Sounds <br> Play the Tune Happy Birthday <br> [lesson](https://wiki.microblocks.fun/card_4_sound_music-small.pdf) - [video](https://youtu.be/wUXRA6ddepI)
+5. Light up LEDs in Many Colors <br> Here Comes an Ambulance <br> [lesson](https://wiki.microblocks.fun/card_5_colorful_leds_ambulance.pdf) - [video](https://youtu.be/HMQY5n7dhsc)
+6. Read Electronic Sensors <br> Graph Sensor Values to See the Big Picture <br> [lesson](https://wiki.microblocks.fun/card_6_sensors_graphing-small.pdf) - [video 1](https://youtu.be/t-X5qIZYqhY) - [video 2](https://youtu.be/Zh-b2QMKRnM)
+7. Count Your Steps <br> Alert! Alert! Backpack Security Monitor and Alarm <br> [lesson](https://wiki.microblocks.fun/card_7_step_counter_motion.pdf) - [video](https://youtu.be/KIOewCLBb3U)
+8. Be a Scientist and Collect Data <br> Remote Data Logging Using the Radio <br> [lesson](https://wiki.microblocks.fun/card_8_data_logging.pdf) - [video](https://youtu.be/ZBU6l-4XjQw)
+9. Make a Game <br> Play the Simon (Memory) Game <br> [lesson](https://wiki.microblocks.fun/card_9_games_simon-small.pdf) - [video](https://youtu.be/oKuQvBGw41o)
+10. Turn a Flashlight into a Remote Control <br> Play Flashlight Tag <br> [lesson](https://wiki.microblocks.fun/card_10_flashlight_remote_tag.pdf) - [video](https://youtu.be/AhnheX1g_nU) - [long video](https://youtu.be/VMPMrNIcQtw) <br>
 Or follow this [playlist of all the videos](https://youtube.com/playlist?list=PLHsB9Dgp_QuN00KnVoIxXSjtI0U8CxHw6).
 
 #### Introduction to Electronics
