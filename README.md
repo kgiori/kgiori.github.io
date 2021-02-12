@@ -1,6 +1,40 @@
 ## Shared Technology Information
 
-Below I share tidbits of useful technology. I like giving workshops to help people get started building their own technology solutions, especially those that incorporate open software and hardware. Ask me if you have ideas for groups who would appreciate a live workshop. The benefits of open source collaboration are immense, which is why I've always been a fan of FOSS, open hardware, and open 'silicon' approaches. We all stand on the shoulders of other brilliant women and men.
+Below I share tidbits of useful technology. I like giving workshops to help people get started building their own technology solutions, especially those that incorporate open software and hardware. Ask me if you have ideas for groups who would appreciate a live workshop. The benefits of open source collaboration are immense, which is why I've always been a fan of free and open source software (FOSS), open hardware, and open 'silicon' approaches. We all stand on the shoulders of other brilliant women and men.
+
+### [TechWomen](https://techwomen.org) Resources for 2020-2021 Emerging Leaders
+
+Here are ideas to improve STEM learning in your community.
+
+#### Recommended Hardware 
+* [MicroBlocks Activity Kit](https://www.okdo.com/us/p/okdo-microblocks-classroom-activity-kit/) or [BBC micro:bit](https://microbit.org/buy/) and accessories
+  * key components of the kit = micro:bit, piezo or other speaker, NeoPixel LEDs
+* Other electronics: small batteries, LEDs, resistors, alligator clips
+
+#### Recommended Software 
+* [MicroBlocks IDE](http://microblocks.fun/)
+  * free [download](http://microblocks.fun/download) or [run from within Chrome browser](http://microblocks.fun/mbrun)
+* [User Guide](https://wiki.microblocks.fun/ide)
+* [Blocks Reference](https://wiki.microblocks.fun/reference_manual)
+* [Libraries](https://wiki.microblocks.fun/libraries)
+  
+#### Learning Content
+[MicroBlocks Activity Card](http://microblocks.fun/learn) lessons and videos supporting the [Kit](https://wiki.microblocks.fun/en/kits/okdoactivitykitmicrobit).
+1. Use Buttons to Control LEDs | Make LED Animations - [lesson](https://wiki.microblocks.fun/card_1_buttons_led_display.pdf) - [video](https://youtu.be/Pu1jFMuyDpE)
+2. Display Messages by Scrolling Text | Create a Magic 8-Ball - [lesson](https://wiki.microblocks.fun/card_2_scrolling_magic_8-ball.pdf) - [video](https://youtu.be/igRhAvRpAqI)
+3. Radio Communications | Do Text Messaging Using Only 2 Buttons! - [lesson](https://wiki.microblocks.fun/card_3_radio_texting.pdf) - [video 1](https://youtu.be/o3Mly7wOMOM) - [video 2](https://youtu.be/0ISMFgFI-kY)
+4. Creating Sounds | Play the Tune Happy Birthday - [lesson](https://wiki.microblocks.fun/card_4_sound_music-small.pdf) - [video](https://youtu.be/wUXRA6ddepI)
+5. Light up LEDs in Many Colors | Here Comes an Ambulance - [lesson](https://wiki.microblocks.fun/card_5_colorful_leds_ambulance.pdf) - [video](https://youtu.be/HMQY5n7dhsc)
+6. Read Electronic Sensors | Graph Sensor Values to See the Big Picture - [lesson](https://wiki.microblocks.fun/card_6_sensors_graphing-small.pdf) - [video 1](https://youtu.be/t-X5qIZYqhY) - [video 2](https://youtu.be/Zh-b2QMKRnM)
+7. Count Your Steps | Alert! Alert! Backpack Security Monitor and Alarm - [lesson](https://wiki.microblocks.fun/card_7_step_counter_motion.pdf) - [video](https://youtu.be/KIOewCLBb3U)
+8. Be a Scientist and Collect Data | Remote Data Logging Using the Radio - [lesson](https://wiki.microblocks.fun/card_8_data_logging.pdf) - [video](https://youtu.be/ZBU6l-4XjQw)
+9. Make a Game | Play the Simon (Memory) Game - [lesson](https://wiki.microblocks.fun/card_9_games_simon-small.pdf) - [video](https://youtu.be/oKuQvBGw41o)
+10. Turn a Flashlight into a Remote Control | Play Flashlight Tag - [lesson](https://wiki.microblocks.fun/card_10_flashlight_remote_tag.pdf) - [video](https://youtu.be/AhnheX1g_nU) - [long video](https://youtu.be/VMPMrNIcQtw) <br>
+Or follow this [playlist of all the videos](https://youtube.com/playlist?list=PLHsB9Dgp_QuN00KnVoIxXSjtI0U8CxHw6).
+
+#### Introduction to Electronics
+* [Electronics reference](https://wiki.microblocks.fun/electronics/working_with_electronics) -- can use batteries as power source instead of micro:bit to build LED circuits
+* [Electronics projects](https://wiki.microblocks.fun/en/electronics) -- check back as there will be more projects added
 
 ### [MicroBlocks](http://microblocks.fun)
 
