@@ -48,6 +48,6 @@ Snap<i>!</i> is also an amazing programming environment, but interaction is focu
 Snap4Arduino lets you tie the UI of your computer with the real world of microcontroller boards that can run Arduino and Standard Firmata. Like MicroBlocks, it is a superb way to engage in programmable interaction with the physical world. However, it does require that the microcontroller remain tethered to the computer.
 
 ## [PlatformIO](https://platformio.org)
-When I'm not programming in blocks, I prefer to use PlatformIO to program any MCU hardware, especially those that support the Arduino framework. In fact, the way I build and upload the MicroBlocks virtual machine (VM) onto several niche microcontroller boards is using the extremely veratile PlatformIO tool. I wish all semiconductor (chip) makers would support a PlatformIO build environment and examples for their products!
+When I'm not programming in blocks, I prefer to use PlatformIO to program any MCU hardware, especially those that support the Arduino framework. In fact, the way I build and upload the MicroBlocks virtual machine (VM) onto several niche microcontroller boards is using the extremely versatile PlatformIO tool. I wish all semiconductor (chip) makers would support a PlatformIO build environment and examples for their products!
 
 Enjoy!
