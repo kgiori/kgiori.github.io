@@ -4,7 +4,8 @@ Below I share tidbits of useful technology. I like giving workshops to help peop
 Here are ideas to improve STEM learning in your community.
 
 ## Recommended Hardware 
-* [MicroBlocks Activity Kit](https://www.okdo.com/us/p/okdo-microblocks-classroom-activity-kit/) or [BBC micro:bit](https://microbit.org/buy/) and accessories (key components: micro:bit, piezo or other speaker, NeoPixel LEDs)
+* [MicroBlocks Activity Kit](http://wiki.microblocks.fun/kits/okdoactivitykitmicrobit) - available globally through distributor [RS Online](https://rs-online.com)
+* [BBC micro:bit](https://microbit.org/buy/) and accessories (key components: micro:bit, piezo or other speaker, NeoPixel LEDs)
 * Other electronics: small batteries, LEDs, resistors, alligator clips
 
 ## Recommended Software 
